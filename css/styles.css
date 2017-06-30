@@ -1,0 +1,161 @@
+*{
+webkit-box-sizing: border-box;
+moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+
+body {
+margin: 5px 50px 5px 50px;
+}
+
+.navbar-brand {
+padding-left:0px;
+letter-spacing: 4px;
+font-size: 30px;
+font-family: serif;
+margin-left: 0px;
+
+}
+
+.navbar-form {
+display: inline;
+border: none;
+width: 15%;
+}
+
+.form-control {
+margin-top: 10px;
+}
+
+
+#myCarousel {
+background-color: White;
+border: 1px solid Black;
+}
+
+.item {
+margin: 25px 0px 25px 0px;
+}
+
+.carousel-control.left, .carousel-control.right {
+   background-image:none !important;
+   filter:none !important;
+   color: Black;
+}
+
+#section_3 {
+margin-top: 15px;
+
+color: White;
+}
+
+.row {
+margin-top: 20px;
+}
+
+.btn {
+width:60px;
+padding: 2px;
+float: center;
+margin-bottom: 30px;
+}
+
+#section_4 {
+
+background-color: White;
+border: 1px solid Black;
+margin-top: 15px;
+}
+
+p {
+color: DarkGrey;
+
+}
+
+
+.table {
+width: 350px;
+length: 100px;
+margin-top: 0px ;
+border: 1px solid LightGrey;
+align: center;
+}
+
+h1 {
+color: DarkGrey;
+font-family: serif;
+}
+
+th {
+text-align: center;
+}
+
+.form-control {
+margin-top: 6px;
+}
+
+.form-check-label {
+color: DarkGrey;
+font-weight: normal !important;
+}
+
+
+::-webkit-input-placeholder {
+    color:    Black !important;
+}
+:-moz-placeholder {
+    color:    Black !important;
+   opacity:  1;
+}
+::-moz-placeholder {
+    color:    Black !important;
+   opacity:  1;
+}
+:-ms-input-placeholder {
+    color:    Black !important;
+}
+::-ms-input-placeholder {
+    color:    Black !important;
+}
+
+#section_5 {
+margin-top: 25px;
+margin-bottom: 25px;
+}
+
+.panel-group {
+margin: 0 auto;
+display: inline;
+
+}
+
+.panel-default > .panel-heading {
+  background-color: LightGrey;
+  border: DarkGrey;
+  padding: none;
+}
+
+h4 {
+color: DarkGrey;
+}
+
+ul {
+  list-style-type: none;
+}
+
+
+.navigacija {
+color: LightGrey !important;
+text-decoration: underline;
+}
+
+.container1 {
+background-color: White !important;
+position: absolute;
+left:0;
+right:0;
+}
+
+#footer {
+color: LightGrey;
+}
